@@ -1,4 +1,4 @@
-package main;
+package com.exam.other;
 
 import java.util.Arrays;
 

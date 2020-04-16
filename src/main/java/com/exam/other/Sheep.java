@@ -1,4 +1,4 @@
-package main;
+package com.exam.other;
 
 public class Sheep {
     private String name;
