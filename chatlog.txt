@@ -1,0 +1,18 @@
+[17:32:17] [Async Chat Thread - #180/INFO]: FactionChat DragonRaid: **ThunderSparkPon3: oh shiz marcus left.....
+[17:32:27] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *MemePrincess KileyKrafts: idk mebbe get a actually decent mob farm. I have 4 cave spider spawners
+[17:32:41] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *Gambler jhbmw007: i have 4 skeles
+[17:32:44] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *Gambler jhbmw007: there in nether
+[17:32:47] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *MemePrincess KileyKrafts: damn
+[17:32:48] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *Gambler jhbmw007: bc i dont have silk
+[17:33:01] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *MemePrincess KileyKrafts: ah I see
+[17:33:09] [Server thread/ERROR]: Item entity 4011941 has no item?!
+[17:33:17] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *MemePrincess KileyKrafts: correction Kat has 2 I have 2 can we work with just two?
+[17:33:31] [Async Chat Thread - #180/INFO]: FactionChat DragonRaid: **ThunderSparkPon3: rax get out of gm3. NOW
+[17:33:35] [Server thread/INFO]: ThunderSparkPon3 issued server command: /f chat f
+[17:33:39] [Async Chat Thread - #180/INFO]: FactionChat DragonRaid: **ThunderSparkPon3: rax get out of gm3
+[17:33:41] [Server thread/INFO]: Raxhy issued server command: /vs
+[17:33:42] [Async Chat Thread - #180/INFO]: DragonRaid R3VOLVR: You're on f c f
+[17:33:45] [Async Chat Thread - #180/INFO]: FactionChat DragonRaid: **ThunderSparkPon3: noone set of the ac
+[17:34:34] [Async Chat Thread - #180/INFO]: FactionChat DragonRaid: **ThunderSparkPon3: i suggest you turn off whatever it is that can show u our faction only messages
+[17:34:46] [Async Chat Thread - #180/INFO]: FactionChat DragonRaid: **ThunderSparkPon3: bc thats technically abuse of powers
+[17:35:04] [Async Chat Thread - #180/INFO]: FactionChat MemePolice: *MemePrincess KileyKrafts: can we go build mob farm?
