@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/students"
+        xmlns:stud="http://www.example.com/students">
+    <element name="employees">
+        <complexType>
+            <sequence>
+                <element name="employee" type="stud:Employee" minOccurs="1" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="Employee">
+        <sequence>
+            <element name="person" type="stud:Person"/>
+            <element name="jobHistory" type="stud:JobHistory"/>
+        </sequence>
+    </complexType>
+
+    <complexType name="Person">
+        <sequence>
+            <element name="firstName" type="string"/>
+            <element name="lastName" type="string"/>
+            <element name="age" type="integer"/>
+        </sequence>
+    </complexType>
+    <complexType name="JobHistory">
+        <sequence>
+            <element name="duration" type="integer"/>
+            <element name="position" type="string"/>
+            <element name="employer" type="string"/>
+
+        </sequence>
+    </complexType>
+
+</schema>
